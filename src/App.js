@@ -69,7 +69,6 @@ class App extends Component {
   };
 
   render() {
-    const cityName = this.state.cityName;
     return (
       <MDBContainer fluid className="">
         <h1 className="text-center display-4">Basic Weather App</h1>
